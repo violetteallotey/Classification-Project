@@ -11,5 +11,6 @@ However, we faced some challenges during the project, including dealing with imb
 
 Moving forward, the best ML components should be exported as a file to be loaded in an app that can help the telecom company to identify customers who are likely to churn and take proactive steps to retain them. Overall, this project demonstrates the importance of data preprocessing, exploratory analysis, and hyperparameter optimization in achieving accurate predictions in a classification problem.
 
+Link to medium article: https://medium.com/@violetteallotey/churning-through-data-predicting-customer-turnover-with-machine-learning-bbe8cd5308f8
 ## Author
 Violette Naa Adoley Allotey
